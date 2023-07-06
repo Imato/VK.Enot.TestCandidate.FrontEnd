@@ -1,0 +1,19 @@
+{
+  "name": "vk.frontend.productstore",
+  "version": "1.0.0",
+  "description": "Programming test for frontend candidate",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Imato/VK.Enot.TestCandidate.FrontEnd.git"
+  },
+  "author": "VK",
+  "license": "UNlicense",
+  "bugs": {
+    "url": "https://github.com/Imato/VK.Enot.TestCandidate.FrontEnd/issues"
+  },
+  "homepage": "https://github.com/Imato/VK.Enot.TestCandidate.FrontEnd#readme"
+}
